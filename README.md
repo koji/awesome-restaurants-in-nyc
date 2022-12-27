@@ -1,2 +1,2 @@
-# awesome-restaurants-in-nyc
-awesome restaurants in nyc
+# Awesome Restaurants in NYC
+
